@@ -1,0 +1,26 @@
+body {
+	background-color: green;
+}
+h5 {
+	color: #000080;
+	text-transform: uppercase;
+}
+h6 {
+	color: #000080;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+.container {
+	width: 900px;
+	background-color: white;
+	padding: 50px;
+}
+table tr th {
+	border: 1px solid black;
+}
+.convertidor {
+	margin-top: 50px;
+	padding: 30px;
+	background-color: #dce5ef;
+	border-radius: 5px;
+}
